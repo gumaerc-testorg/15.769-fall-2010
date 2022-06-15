@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on the readings assigned for the course,
+  and a list of supplemental texts.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 6c823af4-f33e-c02b-5b8c-094d9580d06a
 ---
 
-The following readings are required for the class and have assigned [questions]({{< baseurl >}}/pages/study-questions) for discussion. Assigned cases are also listed, and questions to guide the [case write-ups]({{< baseurl >}}/pages/assignments) are also available. The following texts are required readings for the course:
+The following readings are required for the class and have assigned {{% resource_link 51a9d950-908a-4277-2d46-3ad7ab312e88 "questions" %}} for discussion. Assigned cases are also listed, and questions to guide the {{% resource_link 199d5ffc-6c7e-4b95-4b36-747d9c676493 "case write-ups" %}} are also available. The following texts are required readings for the course:
 
 \[B&R\] = Beckman, Sara, and Donald Rosenfield. _Operations Strategy: Competing in the 21st Century_. McGraw-Hill/Irwin, 2007. ISBN: 9780072500783.
 

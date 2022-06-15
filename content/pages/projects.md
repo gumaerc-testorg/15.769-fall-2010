@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a description of the course project, guidelines
+  for its completion, and the honor code for the final project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

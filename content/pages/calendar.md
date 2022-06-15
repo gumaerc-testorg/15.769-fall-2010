@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section contains the list of topics and objectives for
+  each course session.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
