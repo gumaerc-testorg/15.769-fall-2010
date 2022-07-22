@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a description of the course project, guidelines
+  for its completion, and the honor code for the final project.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8028d06f-d352-270c-3e82-6f034fc3df7f
 ---

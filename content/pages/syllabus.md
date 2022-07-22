@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, intended audience, readings, grading,
+  and expectations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0d7a80ed-0660-f01d-7f5a-66534b1261f9
 ---
@@ -37,7 +42,7 @@ This class is for anyone interested in operations and strategy, with a focus on 
 Readings
 --------
 
-The course will be based largely on case studies, with lectures supplementing these. The [readings]({{< baseurl >}}/pages/readings) section contains a complete list of case studies and readings for the course. [Study questions]({{< baseurl >}}/pages/study-questions) are also available to guide class discussion and case write-ups.
+The course will be based largely on case studies, with lectures supplementing these. The {{% resource_link 6c823af4-f33e-c02b-5b8c-094d9580d06a "readings" %}} section contains a complete list of case studies and readings for the course. {{% resource_link 51a9d950-908a-4277-2d46-3ad7ab312e88 "Study questions" %}} are also available to guide class discussion and case write-ups.
 
 The following two textbooks are required for this course:
 
@@ -45,7 +50,7 @@ Beckman, Sara, and Donald Rosenfield. _Operations Strategy: Competing in the 21s
 
 Fine, Charles H. _Clockspeed: Winning Industry Control in the Age of Temporary Advantage_. Basic Books, 1999. ISBN: 9780738201535.
 
-A list of [optional readings]({{< baseurl >}}/pages/readings#Optional_Readings) is available in the readings of this course.
+A list of {{% resource_link 6c823af4-f33e-c02b-5b8c-094d9580d06a "optional readings" "#Optional_Readings" %}} is available in the readings of this course.
 
 Work Forecast
 -------------
@@ -118,4 +123,4 @@ In a typical class session, one or more students will be asked to begin the disc
 
 ### Case Studies and Project
 
-The class final project and the case write ups account for a significant portion of the final grade. Details on these deliverables can be found in the [projects]({{< baseurl >}}/pages/projects) and [assignments]({{< baseurl >}}/pages/assignments) sections of this course.
+The class final project and the case write ups account for a significant portion of the final grade. Details on these deliverables can be found in the {{% resource_link 8028d06f-d352-270c-3e82-6f034fc3df7f "projects" %}} and {{% resource_link 199d5ffc-6c7e-4b95-4b36-747d9c676493 "assignments" %}} sections of this course.

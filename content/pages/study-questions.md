@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides study questions to guide course readings and case
+  write-ups, and to introduce fundamental ideas that will be discussed in class.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Questions
 uid: 51a9d950-908a-4277-2d46-3ad7ab312e88
 ---
 
-These study questions are provided to guide course [readings]({{< baseurl >}}/pages/readings) and [case write-ups]({{< baseurl >}}/pages/assignments), and to introduce fundamental ideas that will be discussed in class.
+These study questions are provided to guide course {{% resource_link 6c823af4-f33e-c02b-5b8c-094d9580d06a "readings" %}} and {{% resource_link 199d5ffc-6c7e-4b95-4b36-747d9c676493 "case write-ups" %}}, and to introduce fundamental ideas that will be discussed in class.
 
 {{< tableopen >}}
 {{< theadopen >}}

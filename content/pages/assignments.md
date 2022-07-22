@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides information on the case write-ups assigned for
+  the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 199d5ffc-6c7e-4b95-4b36-747d9c676493
 ---
 
-There are approximately 15 cases in this course. Of these only two, Genentech and Applichem, require significant quantitative analysis. Each person should write up three of these during the term, one of which should be either Genentech or Applichem. A write-up includes a three-page analysis of the case, guided by the [study questions]({{< baseurl >}}/pages/study-questions), any [readings]({{< baseurl >}}/pages/readings) for the session, and any ideas discussed previously in the course.
+There are approximately 15 cases in this course. Of these only two, Genentech and Applichem, require significant quantitative analysis. Each person should write up three of these during the term, one of which should be either Genentech or Applichem. A write-up includes a three-page analysis of the case, guided by the {{% resource_link 51a9d950-908a-4277-2d46-3ad7ab312e88 "study questions" %}}, any {{% resource_link 6c823af4-f33e-c02b-5b8c-094d9580d06a "readings" %}} for the session, and any ideas discussed previously in the course.
 
 Format for Case Write-up
 ------------------------
